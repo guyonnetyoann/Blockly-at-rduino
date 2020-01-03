@@ -796,7 +796,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:uno",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardUno"
+        help_link: "https://teamrobobox.fr/"
     },
     kit_robobox_2_1: {
         description: "bras articulé v1",
@@ -822,7 +822,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:uno",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardUno"
+        help_link: "https://teamrobobox.fr/"
     },
     kit_robobox_3_1: {
         description: "robot chien v1",
@@ -848,7 +848,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:uno",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardUno"
+        help_link: "https://teamrobobox.fr/"
     },
     kit_robobox_4_1: {
         description: "robot voiture v1",
@@ -874,7 +874,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:uno",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardUno"
+        help_link: "https://teamrobobox.fr/"
     },
     kit_robobox_1_2: {
         description: "mini alarme v2",
@@ -900,7 +900,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:nano:cpu=atmega328",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardNano"
+        help_link: "https://club.robobox.fr/"
     },
     kit_robobox_2_2: {
         description: "bras articulé v2",
@@ -926,7 +926,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:nano:cpu=atmega328",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardNano"
+        help_link: "https://club.robobox.fr/"
     },
     kit_robobox_3_2: {
         description: "robot chien v2",
@@ -952,7 +952,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:nano:cpu=atmega328",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardNano"
+        help_link: "https://club.robobox.fr/"
     },
     kit_robobox_4_2: {
         description: "voiture v2",
@@ -978,7 +978,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:nano:cpu=atmega328",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardNano"
+        help_link: "https://club.robobox.fr/"
     },
     kit_robobox_5_2: {
         description: "voiture v2 et ",
@@ -1004,7 +1004,7 @@ var profile = {
             ['115200', '115200']],
         serialPin: [["0 (Rx) ; 1 (Tx)", "0"]],
         upload_arg: "arduino:avr:nano:cpu=atmega328",
-        help_link: "https://www.arduino.cc/en/Main/ArduinoBoardNano"
+        help_link: "https://club.robobox.fr/"
     }
 };
 
